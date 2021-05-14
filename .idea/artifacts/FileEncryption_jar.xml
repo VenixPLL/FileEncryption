@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileEncryption:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileEncryption_jar</output-path>
+    <root id="archive" name="FileEncryption.jar">
+      <element id="module-output" name="FileEncryption" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/collections/google-collections/1.0/google-collections-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
